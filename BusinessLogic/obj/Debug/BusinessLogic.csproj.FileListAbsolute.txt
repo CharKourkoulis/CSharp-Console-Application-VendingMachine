@@ -1,0 +1,11 @@
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\bin\Debug\Products.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\bin\Debug\StorageArea.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\bin\Debug\Products.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\bin\Debug\StorageArea.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\BusinessLogic\obj\Debug\BusinessLogic.pdb

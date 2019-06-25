@@ -1,0 +1,14 @@
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\bin\Debug\AutomatosPolitis.exe.config
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\bin\Debug\AutomatosPolitis.exe
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\bin\Debug\AutomatosPolitis.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\bin\Debug\BusinessLogic.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\bin\Debug\Products.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\bin\Debug\StorageArea.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\bin\Debug\BusinessLogic.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\bin\Debug\Products.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\bin\Debug\StorageArea.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\obj\Debug\AutomatosPolitis.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\obj\Debug\AutomatosPolitis.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\obj\Debug\AutomatosPolitis.csproj.CopyComplete
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\obj\Debug\AutomatosPolitis.exe
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\AutomatosPolitis\obj\Debug\AutomatosPolitis.pdb

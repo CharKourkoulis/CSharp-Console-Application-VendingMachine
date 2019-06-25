@@ -1,0 +1,9 @@
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\StorageArea\bin\Debug\StorageArea.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\StorageArea\bin\Debug\StorageArea.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\StorageArea\bin\Debug\Products.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\StorageArea\bin\Debug\Products.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\StorageArea\obj\Debug\StorageArea.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\StorageArea\obj\Debug\StorageArea.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\StorageArea\obj\Debug\StorageArea.csproj.CopyComplete
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\StorageArea\obj\Debug\StorageArea.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\StorageArea\obj\Debug\StorageArea.pdb

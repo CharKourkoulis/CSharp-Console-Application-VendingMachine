@@ -1,0 +1,6 @@
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\Products\bin\Debug\Products.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\Products\bin\Debug\Products.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\Products\obj\Debug\Products.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\Products\obj\Debug\Products.dll
+C:\Users\cult_\OneDrive\Desktop\C# Files\21.06\Askisi_AutomatosPwlitis\AutomatosPolitis\Products\obj\Debug\Products.pdb
